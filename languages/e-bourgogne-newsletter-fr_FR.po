@@ -1,0 +1,140 @@
+# Copyright (C) 2015 e-bourgogne Newsletter
+# This file is distributed under the same license as the e-bourgogne Newsletter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: e-bourgogne Newsletter 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/e-bourgogne-newsletter\n"
+"POT-Creation-Date: 2015-09-01 14:04:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-09-01 16:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: e-bourgogne-newsletter.php:120 e-bourgogne-newsletter.php:219
+#: e-bourgogne-newsletter.php:241
+msgid "Réglages e-bourgogne - Newsletter"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:180
+msgid "Important : afin d'assurer son fonctionnement, le plugin e-bourgogne Newsletter charge des données extérieures en provenance d'%se-bourgogne%s"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:220
+msgid "Newsletter"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:231
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: e-bourgogne-newsletter.php:253
+msgid "Clé d'API"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:260
+msgid "Votre clé est valide"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:260
+msgid "Clé valide"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:269
+msgid "Enregistrer la clé"
+msgstr ""
+
+#: e-bourgogne-newsletter.php:277
+msgid "Votre clé d'API n'est pas valide. Veuillez vérifier si elle correspond bien à celle fournie par e-bourgogne. Si le problème persiste, contactez l'%sassistance e-bourgogne%s."
+msgstr ""
+
+#: e-bourgogne-newsletter.php:283
+msgid "Le service Newsletter d'e-bourgogne est actuellement indisponible, veuillez réessayer ultérieurement."
+msgstr ""
+
+#: ebou-unsubscribe.php:5
+msgid " - Désinscription newsletter"
+msgstr ""
+
+#: ebou-unsubscribe.php:27
+msgid "Votre désinscription a bien été prise en compte"
+msgstr ""
+
+#: ebou-unsubscribe.php:28
+msgid "Vous allez être redirigé vers l'accueil dans quelques secondes..."
+msgstr ""
+
+#: ebou-unsubscribe.php:30
+msgid "Si la redirection ne fonctionne pas, cliquez %sici%s"
+msgstr ""
+
+#: ebou-unsubscribe.php:38
+msgid "Une erreur est survenue lors de votre désinscription, veuillez réessayer ultérieurement."
+msgstr ""
+
+#: ebou-unsubscribe.php:40
+msgid "Accueil"
+msgstr ""
+
+#: widget.php:27
+msgid "Veuillez indiquer une adresse mail valide"
+msgstr ""
+
+#: widget.php:28
+msgid "Veuillez choisir une newsletter valide"
+msgstr ""
+
+#: widget.php:29
+msgid "Votre inscription a bien été enregistrée"
+msgstr ""
+
+#: widget.php:30
+msgid "Une erreur est survenue lors de votre inscription, veuillez réessayer ultérieurement"
+msgstr ""
+
+#: widget.php:77
+msgid "Titre"
+msgstr ""
+
+#: widget.php:82
+msgid "Texte"
+msgstr ""
+
+#: widget.php:87
+msgid "Newsletter(s) affichée(s)"
+msgstr ""
+
+#: widget.php:159
+msgid "Entrez votre email"
+msgstr ""
+
+#: widget.php:169
+msgid "S'inscrire"
+msgstr ""
+
+#: widget.php:170
+msgid "Inscription en cours..."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "e-bourgogne Newsletter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://test.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Newsletter e-bourgogne"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Worldline"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://worldline.com"
+msgstr ""

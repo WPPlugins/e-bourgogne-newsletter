@@ -1,0 +1,44 @@
+ .ebou-nl-spinner {
+ 	display: inline-block;
+	height: 20px;
+	margin: 2px 5px 0;
+	opacity: 0.7;
+	width: 20px;
+}
+
+.ebou-nl-spinner img {
+	height: 100%;
+	width: 100%;
+}
+
+select.ebou-nl-select {
+	min-width: 80%;
+}
+
+select.ebou-nl-soloselect {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+img.ebou-nl-check {
+	vertical-align: middle;
+}
+
+.ebou-nl-success {
+	background: #E6FFCC none repeat scroll 0 0;
+	border: 1px solid #007A00;
+	border-radius: 2px;
+	color: #007A00;
+	padding: 5px 2px;
+	text-align: center;
+}
+
+.ebou-nl-error {
+	background: #FFCCCC none repeat scroll 0 0;
+	border: 1px solid #B80000;
+	border-radius: 2px;
+	color: #B80000;
+	padding: 5px 2px;
+	text-align: center;
+}
